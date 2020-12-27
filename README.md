@@ -6,3 +6,6 @@ Language used was Python, and library used to build the program was Scrapy
 ROBOTSTXT_OBEY was set to false, set to True if you want to follow the internet scraping guidelines
 
 To run, look up Scrapy documentation to run the spyders. You must use "scrapy crawl [options] spyder_name" in a shell
+
+
+Files to play with are in "spiders" folder which contains the specific individual bots
